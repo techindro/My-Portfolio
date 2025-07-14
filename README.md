@@ -31,9 +31,6 @@ Created and maintained by **Shubham Patel (Tech Indro)** – AI Developer & Rese
 ![Home Dark](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/home-dark-desktop.png)
 
 ### 📱 Mobile Views
-![Mobile About](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/about-light-mobile.png)
-![Mobile Projects](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/projects-light-mobile.png)
-
 ---
 
 ## ⚙️ Technologies Used
