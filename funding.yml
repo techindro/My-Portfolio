@@ -1,0 +1,15 @@
+# These are supported funding model platforms
+
+github: [techindro]                        # Your GitHub username (change if different)
+patreon: techindro                         # Your Patreon username
+open_collective: techindro-collective      # Your Open Collective project name
+ko_fi: techindro                           # Your Ko-fi username
+tidelift: npm/techindro                    # Your package path on Tidelift (if applicable)
+community_bridge: techindro-project        # Community Bridge project (if registered)
+liberapay: techindro                       # Liberapay username
+issuehunt: techindro                       # IssueHunt username
+lfx_crowdfunding: techindro-crowdfund      # LFX Crowdfunding project name
+polar: techindro                           # Polar username
+buy_me_a_coffee: techindro                 # Buy Me a Coffee ID
+thanks_dev: techindro                      # thanks.dev username
+custom: ['https://www.buymeacoffee.com/techindro', 'https://techindro.in/donate']
