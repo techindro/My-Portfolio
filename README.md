@@ -69,7 +69,7 @@ If you're interested in collaboration, internship, open-source contributions or 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/shubham-patel-3a6409247/)  
 📧 [Email](mailto:shubhamkumarpatel45@gmail.com)  
-🌐 [Website](https://techindro.in)
+🌐 [Website](https://techindros.com.free/)
 
 ---
 
