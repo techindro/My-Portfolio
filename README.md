@@ -18,7 +18,7 @@ Created and maintained by **Shubham Patel (Tech Indro)** – AI Developer & Rese
 
 👉 [Live Portfolio Website](https://your-portfolio-link.vercel.app)
 
-👉 [YouTube Tutorial](ttps://www.youtube.com/@TechIndro)
+👉 [YouTube Tutorial](https://youtube.com/@goinfinitymotivationword?si=E0_H2x0tZDXIAPDK)
 
 [![YouTube Video Views](https://img.shields.io/youtube/views/Yw7yWHigGKI?style=social)](ttps://www.youtube.com/@TechIndro)
 
