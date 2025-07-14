@@ -18,9 +18,9 @@ Created and maintained by **Shubham Patel (Tech Indro)** – AI Developer & Rese
 
 👉 [Live Portfolio Website](https://your-portfolio-link.vercel.app)
 
-👉 [YouTube Tutorial](https://youtu.be/Yw7yWHigGKI)
+👉 [YouTube Tutorial](ttps://www.youtube.com/@TechIndro)
 
-[![YouTube Video Views](https://img.shields.io/youtube/views/Yw7yWHigGKI?style=social)](https://youtu.be/Yw7yWHigGKI)
+[![YouTube Video Views](https://img.shields.io/youtube/views/Yw7yWHigGKI?style=social)](ttps://www.youtube.com/@TechIndro)
 
 ---
 
@@ -67,7 +67,7 @@ Founder of **Tech Indro**, I work across AI, Aerospace, and Electronics with a p
 
 If you're interested in collaboration, internship, open-source contributions or research — feel free to connect:
 
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shubham-patel-3a6409247/)  
 📧 [Email](mailto:shubhamkumarpatel45@gmail.com)  
 🌐 [Website](https://techindro.in)
 
